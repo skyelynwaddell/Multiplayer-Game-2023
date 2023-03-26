@@ -38,3 +38,7 @@ Once all is installed you should be able to start the server by typing the follo
 Open GameMaker, run the project and confirm you can connect to the server. <br>
 
 All done :3
+<br>
+*to run on a vps, get a debian linux vps and install apache and all dependencies above. <br>
+*make proxy pass with apache to example a folder called /server on vps linking to the games port which is default 2002 <br>
+&& instead of connecting to localhost in gamemaker connect to the ip address followed by the proxypass folder (example 192.168.1.98/server/
