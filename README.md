@@ -7,8 +7,8 @@ Languages/Programs: Javascript/NodeJS & GameMaker Studio 2
 <br>
 -Must replace Hotmail account with your Hotmail account in server.js 
 <br>
-~ please look into setting your hotmail up
-(do not use any other mailing service unless you know how to change the code to implement it)
+*Please look into setting your hotmail up
+(do not use any other mailing service unless you know how to change the code to implement it)*
 <br><br>
 -Download VSCode & GameMaker Studio 2
 <br>
@@ -31,9 +31,9 @@ Commands for modules to install: <br>
 > npm i nodemailer <br>
 > npm i mongoose <br>
 
-Once all is installed you should be able to start the server by typing <br>
-> node server.js <br>
-into the terminal window inside VSCode. <br>
+Once all is installed you should be able to start the server by typing the following command into the VScode terminal. <br>
+> node server.js 
+
 
 Open GameMaker, run the project and confirm you can connect to the server. <br>
 
