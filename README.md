@@ -26,10 +26,6 @@ Languages/Programs: Javascript/NodeJS & GameMaker Studio 2
 Commands for modules to install: <br>
 > sudo apt install npm <br>
 > sudo npm install <br>
-> npm i express <br>
-> npm i hbs <br>
-> npm i nodemailer <br>
-> npm i mongoose <br>
 
 Once all is installed you should be able to start the server by typing the following command into the VScode terminal. <br>
 > node server.js 
