@@ -35,7 +35,7 @@ Open GameMaker, run the project and confirm you can connect to the server. <br>
 
 All done :3
 <br><br>
-*to run on a vps, get a debian linux vps and install apache and all dependencies above.* <br>
-*make proxy pass with apache to example a folder called /server on vps that also links the games port which is default 2002* (you will need to google how to create a proxy pass in apache)<br>
-*&& instead of connecting to localhost in gamemaker connect to the ip address of your server followed by the proxypass folder (example 256.235.233/server/*
-*You can use the build npm function on server.js file with and create an executable file that you can simply run on VPS to start your backend server. (Also google how to do this)*
+-*to run on a vps, get a debian linux vps and install apache and all dependencies above.* <br>
+-*make proxy pass with apache to example a folder called /server on vps that also links the games port which is default 2002* (you will need to google how to create a proxy pass in apache)<br>
+-*&& instead of connecting to localhost in gamemaker connect to the ip address of your server followed by the proxypass folder (example 256.235.233/server/*
+-*You can use the build npm function on server.js file and create an executable file that you can simply run on VPS to start your backend server. (Also google how to do this)*
